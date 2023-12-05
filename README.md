@@ -1,2 +1,2 @@
 # portfolio
-Karen's previous technical and creative works
+karen's previous technical and creative works
